@@ -1,0 +1,449 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "HotelActionDelegate"
+- "Hotel_FooterView"
+provides-nominal:
+- "8MyHotels19HotelActionDelegateP"
+- "8MyHotels16Hotel_FooterViewC"
+provides-member:
+- ["8MyHotels19HotelActionDelegateP", ""]
+- ["8MyHotels16Hotel_FooterViewC", ""]
+provides-dynamic-lookup:
+- "delegate"
+- "doneButton"
+- "doneButtonTapped"
+- "setDoneButtonTitle"
+depends-top-level:
+- !private "=="
+- "AnyObject"
+- "AssignmentPrecedence"
+- "HotelActionDelegate"
+- "HotelViewType"
+- "Hotel_FooterView"
+- !private "NSLocalizedString"
+- !private "StringLiteralType"
+- "UIButton"
+- "UITableViewHeaderFooterView"
+depends-member:
+- ["SK", ""]
+- ["So15CALayerDelegateP", "HotelActionDelegate"]
+- ["So15CALayerDelegateP", "HotelViewType"]
+- !private ["So15CALayerDelegateP", "NSLocalizedString"]
+- ["So15CALayerDelegateP", "UIButton"]
+- ["So15CALayerDelegateP", ""]
+- ["So15CALayerDelegateP", "delegate"]
+- ["So15CALayerDelegateP", "doneButton"]
+- ["So15CALayerDelegateP", "doneButtonTapped"]
+- ["So15CALayerDelegateP", "init"]
+- ["So15CALayerDelegateP", "setDoneButtonTitle"]
+- !private ["So15CALayerDelegateP", "setTitle"]
+- !private ["s7CVarArgP", "NSLocalizedString"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "delegate"]
+- !private ["s7CVarArgP", "doneButton"]
+- !private ["s7CVarArgP", "doneButtonTapped"]
+- !private ["s7CVarArgP", "setDoneButtonTitle"]
+- !private ["s7CVarArgP", "setTitle"]
+- ["Sl", ""]
+- ["SL", ""]
+- !private ["s28CustomDebugStringConvertibleP", "NSLocalizedString"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- !private ["s28CustomDebugStringConvertibleP", "doneButton"]
+- !private ["s28CustomDebugStringConvertibleP", "doneButtonTapped"]
+- !private ["s28CustomDebugStringConvertibleP", "setDoneButtonTitle"]
+- !private ["s28CustomDebugStringConvertibleP", "setTitle"]
+- !private ["s17CustomReflectableP", "setTitle"]
+- !private ["s23CustomStringConvertibleP", "NSLocalizedString"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- !private ["s23CustomStringConvertibleP", "doneButton"]
+- !private ["s23CustomStringConvertibleP", "doneButtonTapped"]
+- !private ["s23CustomStringConvertibleP", "setDoneButtonTitle"]
+- !private ["s23CustomStringConvertibleP", "setTitle"]
+- !private ["Se", "setTitle"]
+- !private ["SE", "setTitle"]
+- !private ["SQ", "=="]
+- !private ["SQ", "NSLocalizedString"]
+- ["SQ", ""]
+- !private ["SQ", "delegate"]
+- !private ["SQ", "doneButton"]
+- !private ["SQ", "doneButtonTapped"]
+- !private ["SQ", "edit_hotel"]
+- !private ["SQ", "normal"]
+- !private ["SQ", "setDoneButtonTitle"]
+- !private ["SQ", "setTitle"]
+- !private ["s25ExpressibleByArrayLiteralP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "normal"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- !private ["s23ExpressibleByNilLiteralP", "setTitle"]
+- ["s32ExpressibleByStringInterpolationP", ""]
+- ["s26ExpressibleByStringLiteralP", ""]
+- ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- !private ["SH", "NSLocalizedString"]
+- ["SH", ""]
+- !private ["SH", "delegate"]
+- !private ["SH", "doneButton"]
+- !private ["SH", "doneButtonTapped"]
+- !private ["SH", "edit_hotel"]
+- !private ["SH", "setDoneButtonTitle"]
+- !private ["SH", "setTitle"]
+- ["8MyHotels19HotelActionDelegateP", "actionButtonTapped"]
+- !private ["8MyHotels13HotelViewTypeO", ""]
+- !private ["8MyHotels13HotelViewTypeO", "edit_hotel"]
+- ["8MyHotels16Hotel_FooterViewC", "HotelActionDelegate"]
+- ["8MyHotels16Hotel_FooterViewC", "HotelViewType"]
+- !private ["8MyHotels16Hotel_FooterViewC", "NSLocalizedString"]
+- ["8MyHotels16Hotel_FooterViewC", "UIButton"]
+- ["8MyHotels16Hotel_FooterViewC", ""]
+- ["8MyHotels16Hotel_FooterViewC", "deinit"]
+- ["8MyHotels16Hotel_FooterViewC", "delegate"]
+- ["8MyHotels16Hotel_FooterViewC", "doneButton"]
+- ["8MyHotels16Hotel_FooterViewC", "doneButtonTapped"]
+- ["8MyHotels16Hotel_FooterViewC", "init"]
+- ["8MyHotels16Hotel_FooterViewC", "setDoneButtonTitle"]
+- ["s25LosslessStringConvertibleP", ""]
+- ["So8NSCodingP", "HotelActionDelegate"]
+- ["So8NSCodingP", "HotelViewType"]
+- !private ["So8NSCodingP", "NSLocalizedString"]
+- ["So8NSCodingP", "UIButton"]
+- ["So8NSCodingP", ""]
+- ["So8NSCodingP", "delegate"]
+- ["So8NSCodingP", "doneButton"]
+- ["So8NSCodingP", "doneButtonTapped"]
+- ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "setDoneButtonTitle"]
+- !private ["So8NSCodingP", "setTitle"]
+- ["So8NSObjectC", "HotelActionDelegate"]
+- ["So8NSObjectC", "HotelViewType"]
+- !private ["So8NSObjectC", "NSLocalizedString"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "delegate"]
+- ["So8NSObjectC", "doneButton"]
+- ["So8NSObjectC", "doneButtonTapped"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "setDoneButtonTitle"]
+- !private ["So8NSObjectC", "setTitle"]
+- ["So8NSObjectP", "HotelActionDelegate"]
+- ["So8NSObjectP", "HotelViewType"]
+- !private ["So8NSObjectP", "NSLocalizedString"]
+- ["So8NSObjectP", "UIButton"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "delegate"]
+- ["So8NSObjectP", "doneButton"]
+- ["So8NSObjectP", "doneButtonTapped"]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "setDoneButtonTitle"]
+- !private ["So8NSObjectP", "setTitle"]
+- !private ["s9OptionSetP", "normal"]
+- !private ["Sq", "setTitle"]
+- !private ["SY", ""]
+- !private ["SY", "normal"]
+- ["ST", ""]
+- !private ["s10SetAlgebraP", ""]
+- !private ["s10SetAlgebraP", "normal"]
+- !private ["So14UIControlStateV", "normal"]
+- ["s16TextOutputStreamP", ""]
+- ["s20TextOutputStreamableP", ""]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "setTitle"]
+- ["So29UIAccessibilityIdentificationP", "HotelActionDelegate"]
+- ["So29UIAccessibilityIdentificationP", "HotelViewType"]
+- !private ["So29UIAccessibilityIdentificationP", "NSLocalizedString"]
+- ["So29UIAccessibilityIdentificationP", "UIButton"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- ["So29UIAccessibilityIdentificationP", "delegate"]
+- ["So29UIAccessibilityIdentificationP", "doneButton"]
+- ["So29UIAccessibilityIdentificationP", "doneButtonTapped"]
+- ["So29UIAccessibilityIdentificationP", "init"]
+- ["So29UIAccessibilityIdentificationP", "setDoneButtonTitle"]
+- !private ["So29UIAccessibilityIdentificationP", "setTitle"]
+- ["So12UIAppearanceP", "HotelActionDelegate"]
+- ["So12UIAppearanceP", "HotelViewType"]
+- !private ["So12UIAppearanceP", "NSLocalizedString"]
+- ["So12UIAppearanceP", "UIButton"]
+- ["So12UIAppearanceP", ""]
+- ["So12UIAppearanceP", "delegate"]
+- ["So12UIAppearanceP", "doneButton"]
+- ["So12UIAppearanceP", "doneButtonTapped"]
+- ["So12UIAppearanceP", "init"]
+- ["So12UIAppearanceP", "setDoneButtonTitle"]
+- !private ["So12UIAppearanceP", "setTitle"]
+- ["So21UIAppearanceContainerP", "HotelActionDelegate"]
+- ["So21UIAppearanceContainerP", "HotelViewType"]
+- !private ["So21UIAppearanceContainerP", "NSLocalizedString"]
+- ["So21UIAppearanceContainerP", "UIButton"]
+- ["So21UIAppearanceContainerP", ""]
+- ["So21UIAppearanceContainerP", "delegate"]
+- ["So21UIAppearanceContainerP", "doneButton"]
+- ["So21UIAppearanceContainerP", "doneButtonTapped"]
+- ["So21UIAppearanceContainerP", "init"]
+- ["So21UIAppearanceContainerP", "setDoneButtonTitle"]
+- !private ["So21UIAppearanceContainerP", "setTitle"]
+- !private ["So8UIButtonC", "setTitle"]
+- !private ["So32UIContextMenuInteractionDelegateP", "setTitle"]
+- ["So9UIControlC", ""]
+- !private ["So9UIControlC", "setTitle"]
+- ["So17UICoordinateSpaceP", "HotelActionDelegate"]
+- ["So17UICoordinateSpaceP", "HotelViewType"]
+- !private ["So17UICoordinateSpaceP", "NSLocalizedString"]
+- ["So17UICoordinateSpaceP", "UIButton"]
+- ["So17UICoordinateSpaceP", ""]
+- ["So17UICoordinateSpaceP", "delegate"]
+- ["So17UICoordinateSpaceP", "doneButton"]
+- ["So17UICoordinateSpaceP", "doneButtonTapped"]
+- ["So17UICoordinateSpaceP", "init"]
+- ["So17UICoordinateSpaceP", "setDoneButtonTitle"]
+- !private ["So17UICoordinateSpaceP", "setTitle"]
+- ["So13UIDynamicItemP", "HotelActionDelegate"]
+- ["So13UIDynamicItemP", "HotelViewType"]
+- !private ["So13UIDynamicItemP", "NSLocalizedString"]
+- ["So13UIDynamicItemP", "UIButton"]
+- ["So13UIDynamicItemP", ""]
+- ["So13UIDynamicItemP", "delegate"]
+- ["So13UIDynamicItemP", "doneButton"]
+- ["So13UIDynamicItemP", "doneButtonTapped"]
+- ["So13UIDynamicItemP", "init"]
+- ["So13UIDynamicItemP", "setDoneButtonTitle"]
+- !private ["So13UIDynamicItemP", "setTitle"]
+- ["So18UIFocusEnvironmentP", "HotelActionDelegate"]
+- ["So18UIFocusEnvironmentP", "HotelViewType"]
+- !private ["So18UIFocusEnvironmentP", "NSLocalizedString"]
+- ["So18UIFocusEnvironmentP", "UIButton"]
+- ["So18UIFocusEnvironmentP", ""]
+- ["So18UIFocusEnvironmentP", "delegate"]
+- ["So18UIFocusEnvironmentP", "doneButton"]
+- ["So18UIFocusEnvironmentP", "doneButtonTapped"]
+- ["So18UIFocusEnvironmentP", "init"]
+- ["So18UIFocusEnvironmentP", "setDoneButtonTitle"]
+- !private ["So18UIFocusEnvironmentP", "setTitle"]
+- ["So11UIFocusItemP", "HotelActionDelegate"]
+- ["So11UIFocusItemP", "HotelViewType"]
+- !private ["So11UIFocusItemP", "NSLocalizedString"]
+- ["So11UIFocusItemP", "UIButton"]
+- ["So11UIFocusItemP", ""]
+- ["So11UIFocusItemP", "delegate"]
+- ["So11UIFocusItemP", "doneButton"]
+- ["So11UIFocusItemP", "doneButtonTapped"]
+- ["So11UIFocusItemP", "init"]
+- ["So11UIFocusItemP", "setDoneButtonTitle"]
+- !private ["So11UIFocusItemP", "setTitle"]
+- ["So20UIFocusItemContainerP", "HotelActionDelegate"]
+- ["So20UIFocusItemContainerP", "HotelViewType"]
+- !private ["So20UIFocusItemContainerP", "NSLocalizedString"]
+- ["So20UIFocusItemContainerP", "UIButton"]
+- ["So20UIFocusItemContainerP", ""]
+- ["So20UIFocusItemContainerP", "delegate"]
+- ["So20UIFocusItemContainerP", "doneButton"]
+- ["So20UIFocusItemContainerP", "doneButtonTapped"]
+- ["So20UIFocusItemContainerP", "init"]
+- ["So20UIFocusItemContainerP", "setDoneButtonTitle"]
+- !private ["So20UIFocusItemContainerP", "setTitle"]
+- ["So24UILargeContentViewerItemP", "HotelActionDelegate"]
+- ["So24UILargeContentViewerItemP", "HotelViewType"]
+- !private ["So24UILargeContentViewerItemP", "NSLocalizedString"]
+- ["So24UILargeContentViewerItemP", "UIButton"]
+- ["So24UILargeContentViewerItemP", ""]
+- ["So24UILargeContentViewerItemP", "delegate"]
+- ["So24UILargeContentViewerItemP", "doneButton"]
+- ["So24UILargeContentViewerItemP", "doneButtonTapped"]
+- ["So24UILargeContentViewerItemP", "init"]
+- ["So24UILargeContentViewerItemP", "setDoneButtonTitle"]
+- !private ["So24UILargeContentViewerItemP", "setTitle"]
+- ["So30UIPasteConfigurationSupportingP", "HotelActionDelegate"]
+- ["So30UIPasteConfigurationSupportingP", "HotelViewType"]
+- !private ["So30UIPasteConfigurationSupportingP", "NSLocalizedString"]
+- ["So30UIPasteConfigurationSupportingP", "UIButton"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So30UIPasteConfigurationSupportingP", "delegate"]
+- ["So30UIPasteConfigurationSupportingP", "doneButton"]
+- ["So30UIPasteConfigurationSupportingP", "doneButtonTapped"]
+- ["So30UIPasteConfigurationSupportingP", "init"]
+- ["So30UIPasteConfigurationSupportingP", "setDoneButtonTitle"]
+- !private ["So30UIPasteConfigurationSupportingP", "setTitle"]
+- ["So11UIResponderC", "HotelActionDelegate"]
+- ["So11UIResponderC", "HotelViewType"]
+- !private ["So11UIResponderC", "NSLocalizedString"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", ""]
+- ["So11UIResponderC", "delegate"]
+- ["So11UIResponderC", "doneButton"]
+- ["So11UIResponderC", "doneButtonTapped"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "setDoneButtonTitle"]
+- !private ["So11UIResponderC", "setTitle"]
+- ["So30UIResponderStandardEditActionsP", "HotelActionDelegate"]
+- ["So30UIResponderStandardEditActionsP", "HotelViewType"]
+- !private ["So30UIResponderStandardEditActionsP", "NSLocalizedString"]
+- ["So30UIResponderStandardEditActionsP", "UIButton"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- ["So30UIResponderStandardEditActionsP", "delegate"]
+- ["So30UIResponderStandardEditActionsP", "doneButton"]
+- ["So30UIResponderStandardEditActionsP", "doneButtonTapped"]
+- ["So30UIResponderStandardEditActionsP", "init"]
+- ["So30UIResponderStandardEditActionsP", "setDoneButtonTitle"]
+- !private ["So30UIResponderStandardEditActionsP", "setTitle"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "setTitle"]
+- ["So023UITableViewHeaderFooterB0C", "HotelActionDelegate"]
+- ["So023UITableViewHeaderFooterB0C", "HotelViewType"]
+- !private ["So023UITableViewHeaderFooterB0C", "NSLocalizedString"]
+- ["So023UITableViewHeaderFooterB0C", "UIButton"]
+- ["So023UITableViewHeaderFooterB0C", ""]
+- ["So023UITableViewHeaderFooterB0C", "delegate"]
+- ["So023UITableViewHeaderFooterB0C", "doneButton"]
+- ["So023UITableViewHeaderFooterB0C", "doneButtonTapped"]
+- ["So023UITableViewHeaderFooterB0C", "init"]
+- ["So023UITableViewHeaderFooterB0C", "setDoneButtonTitle"]
+- ["So18UITraitEnvironmentP", "HotelActionDelegate"]
+- ["So18UITraitEnvironmentP", "HotelViewType"]
+- !private ["So18UITraitEnvironmentP", "NSLocalizedString"]
+- ["So18UITraitEnvironmentP", "UIButton"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So18UITraitEnvironmentP", "delegate"]
+- ["So18UITraitEnvironmentP", "doneButton"]
+- ["So18UITraitEnvironmentP", "doneButtonTapped"]
+- ["So18UITraitEnvironmentP", "init"]
+- ["So18UITraitEnvironmentP", "setDoneButtonTitle"]
+- !private ["So18UITraitEnvironmentP", "setTitle"]
+- ["So23UIUserActivityRestoringP", "HotelActionDelegate"]
+- ["So23UIUserActivityRestoringP", "HotelViewType"]
+- !private ["So23UIUserActivityRestoringP", "NSLocalizedString"]
+- ["So23UIUserActivityRestoringP", "UIButton"]
+- ["So23UIUserActivityRestoringP", ""]
+- ["So23UIUserActivityRestoringP", "delegate"]
+- ["So23UIUserActivityRestoringP", "doneButton"]
+- ["So23UIUserActivityRestoringP", "doneButtonTapped"]
+- ["So23UIUserActivityRestoringP", "init"]
+- ["So23UIUserActivityRestoringP", "setDoneButtonTitle"]
+- !private ["So23UIUserActivityRestoringP", "setTitle"]
+- ["So6UIViewC", "HotelActionDelegate"]
+- ["So6UIViewC", "HotelViewType"]
+- !private ["So6UIViewC", "NSLocalizedString"]
+- ["So6UIViewC", "UIButton"]
+- ["So6UIViewC", ""]
+- ["So6UIViewC", "delegate"]
+- ["So6UIViewC", "doneButton"]
+- ["So6UIViewC", "doneButtonTapped"]
+- ["So6UIViewC", "init"]
+- ["So6UIViewC", "setDoneButtonTitle"]
+- !private ["So6UIViewC", "setTitle"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSLocalizedString"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "doneButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "doneButtonTapped"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setDoneButtonTitle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setTitle"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "NSLocalizedString"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "delegate"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "doneButton"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "doneButtonTapped"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setDoneButtonTitle"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setTitle"]
+- !private ["s21_ObjectiveCBridgeableP", "setTitle"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "NSLocalizedString"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "delegate"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "doneButton"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "doneButtonTapped"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "setDoneButtonTitle"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "setTitle"]
+depends-nominal:
+- "SK"
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- "8MyHotels19HotelActionDelegateP"
+- !private "8MyHotels13HotelViewTypeO"
+- "8MyHotels16Hotel_FooterViewC"
+- "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "s9OptionSetP"
+- !private "Sq"
+- !private "SY"
+- "ST"
+- !private "s10SetAlgebraP"
+- !private "So14UIControlStateV"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So8UIButtonC"
+- !private "So32UIContextMenuInteractionDelegateP"
+- "So9UIControlC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So023UITableViewHeaderFooterB0C"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/ObjectiveC.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreImage.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Combine.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/QuartzCore.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Dispatch.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Metal.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Darwin.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Foundation.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreFoundation.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreGraphics.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Swift.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/UIKit.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/SwiftOnoneSupport.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "b0c23b20ae6f45034e19d6073eb98d7e"

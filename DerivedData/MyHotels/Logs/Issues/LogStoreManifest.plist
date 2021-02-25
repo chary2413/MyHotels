@@ -5,7 +5,36 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>27CBF501-7298-4D25-A2FD-6D1E5ED95F4B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>27CBF501-7298-4D25-A2FD-6D1E5ED95F4B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>MyHotels-gojdxatujfykelcabhjgblrzykbn</string>
+			<key>timeStartedRecording</key>
+			<real>635931120.87637997</real>
+			<key>timeStoppedRecording</key>
+			<real>635931121.86980104</real>
+			<key>title</key>
+			<string>Build target MyHotels</string>
+			<key>uniqueIdentifier</key>
+			<string>27CBF501-7298-4D25-A2FD-6D1E5ED95F4B</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>

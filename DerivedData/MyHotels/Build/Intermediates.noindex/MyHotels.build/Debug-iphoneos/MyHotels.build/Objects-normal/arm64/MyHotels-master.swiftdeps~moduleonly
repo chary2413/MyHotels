@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "8ac17f2154ebda3d966e3758e70ee4f9"
+build_time: [1614238140, 730877000]
+inputs:
+  "/Users/shanmukeshwarachary/Workspace/MyHotels/MyHotels/Model/Hotel_Enums.swift": [1614238140, 636610365]
+  "/Users/shanmukeshwarachary/Workspace/MyHotels/MyHotels/Extensions/UITextField+InputView.swift": [1614234803, 815298197]
+  "/Users/shanmukeshwarachary/Workspace/MyHotels/MyHotels/Hotel_AddTableViewController.swift": [1614237645, 324873284]
+  "/Users/shanmukeshwarachary/Workspace/MyHotels/MyHotels/Views/Hotel_FooterView.swift": [1614167459, 721011384]
+  "/Users/shanmukeshwarachary/Workspace/MyHotels/MyHotels/Views/Hotel_HeaderImageView.swift": [1614189071, 508665745]
+  "/Users/shanmukeshwarachary/Workspace/MyHotels/MyHotels/ViewController.swift": [1614233843, 432878066]
+  "/Users/shanmukeshwarachary/Workspace/MyHotels/MyHotels/AppDelegate.swift": [1613707103, 650882760]
+  "/Users/shanmukeshwarachary/Workspace/MyHotels/MyHotels/Model/Hotel.swift": [1614189878, 20916074]
+  "/Users/shanmukeshwarachary/Workspace/MyHotels/MyHotels/Views/RatingsView.swift": [1614183711, 102603652]
+  "/Users/shanmukeshwarachary/Workspace/MyHotels/MyHotels/ViewModels/HotelListViewModel.swift": [1614232902, 171737688]
+  "/Users/shanmukeshwarachary/Workspace/MyHotels/MyHotels/SceneDelegate.swift": [1613707103, 654273941]
+  "/Users/shanmukeshwarachary/Workspace/MyHotels/MyHotels/Views/HotelTableViewCell.swift": [1614237784, 361857595]
